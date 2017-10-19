@@ -1,0 +1,38 @@
+*{
+	outline: none;
+	
+}
+.main-page{
+	width:960px;
+	margin:0 auto;
+}
+.page-header{
+	height:40px;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	font-size:16px;
+}
+li{
+	float:left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding:14px 16px;
+	list-style: none;
+	text-decoration: none;
+}
+li a:hover{
+	background-color:#111;
+}
+
+.footer-edit{
+	background-color: #333;
+	
+}
